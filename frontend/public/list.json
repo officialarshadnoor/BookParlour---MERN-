@@ -1,0 +1,82 @@
+[
+    {
+        "id":1,
+        "name":"Energy",
+        "title": "How to be 1% better Everyday",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740"
+    },
+    {
+        "id":2,
+        "name":"Motivation",
+        "title": "The monk who sold his Ferrari",
+        "price":400,
+        "category":"Free",
+        "image":"https://www.crossword.in/cdn/shop/products/JH-580.jpg?v=1682678643"
+    },
+    {
+        "id":3,
+        "name":"Startup",
+        "title": "Zero to One by Peter Thiel",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740"
+    },
+    {
+        "id":4,
+        "name":"Startup",
+        "title": "Steve Jobs",
+        "price":0,
+        "category":"Free",
+        "image":"https://m.media-amazon.com/images/I/71PTAp96xLL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "id":5,
+        "name":"Happiness",
+        "title": "The Art of Being Happy",
+        "price":0,
+        "category":"Free",
+        "image":"https://m.media-amazon.com/images/I/71SFb4uuF0L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "id":6,
+        "name":"Startup",
+        "title": "The Lean Startup",
+        "price":0,
+        "category":"Free",
+        "image":"https://m.media-amazon.com/images/I/61BFOf9Ap-L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "id":7,
+        "name":"Startup",
+        "title": "The Hard Thing About Hard Things",
+        "price":0,
+        "category":"Free",
+        "image":"https://media.licdn.com/dms/image/D5612AQH6Hf6_aSMokw/article-cover_image-shrink_720_1280/0/1676542744041?e=2147483647&v=beta&t=HJ90nJ-njGYJ8ZlEPga8F8SFPS6UYlLnaPI-HoUz_-Y"
+    },
+    {
+        "id":8,
+        "name":"Funny",
+        "title": "The Funny Book",
+        "price":200,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740"
+    },
+    {
+        "id":9,
+        "name":"Food",
+        "title": "How to cook",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740"
+    },
+{
+        "id":10,
+        "name":"Fitness",
+        "title": "The fitness guide",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740"
+    }
+]
